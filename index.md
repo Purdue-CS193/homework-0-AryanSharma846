@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  # Aryan's First CS193 Homework
 - There is no final exams
 - The instructors seem very down-to-Earth
-
+- Learning in a Church is an interesting experience
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
